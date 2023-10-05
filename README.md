@@ -29,5 +29,5 @@ pip3 uninstall yfinance_portfolio_builder
 example main can be found in: ```yfinance_portfolio_builder/example/main.py```
 
 ```bash
-python3.11 yfinance/example/main.py
+python3.11 yfinance_portfolio_builder/example/main.py
 ```
