@@ -6,7 +6,7 @@ Assignement for S4.
 - Completed the assignement
 - added threading for faster API requests.
 
-
+Used Python 3.11
 
 ## Installation
 
@@ -27,3 +27,7 @@ pip3 uninstall yfinance_portfolio_builder
 # Example
 
 example main can be found in: ```yfinance_portfolio_builder/example/main.py```
+
+```bash
+python3.11 yfinance/example/main.py
+```
