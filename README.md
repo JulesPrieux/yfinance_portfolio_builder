@@ -13,7 +13,7 @@ Assignement for S4.
 
 
 ```bash
-  git clone xxx
+  git clone https://github.com/JulesPrieux/yfinance_portfolio_builder.git
   cd yfinance_portfolio_builder
   pip3 install -r requirements.txt
   pip3 install -e .
@@ -27,4 +27,3 @@ pip3 uninstall yfinance_portfolio_builder
 # Example
 
 example main can be found in: ```yfinance_portfolio_builder/example/main.py```
-# yfinance_portfolio_builder
